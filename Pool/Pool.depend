@@ -1,0 +1,892 @@
+# depslib dependency file v1.0
+1715242880 source:d:\ict289\assignment2\pool\collision_detection.c
+	"collision_detection.h"
+
+1715242826 d:\ict289\assignment2\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715242662 d:\ict289\assignment2\pool\geometry.h
+
+1715242788 source:d:\ict289\assignment2\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715242720 d:\ict289\assignment2\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715242488 source:d:\ict289\assignment2\pool\physics.c
+	"physics.h"
+
+1715242640 d:\ict289\assignment2\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715243598 source:d:\ict289\assignment2\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715224552 source:d:\ict289\assignment2\pool\camera.c
+	"camera.h"
+
+1715243310 d:\ict289\assignment2\pool\camera.h
+	"physics.h"
+
+1715242690 source:d:\ict289\assignment2\pool\geometry.c
+	"geometry.h"
+
+1715249357 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\camera.c
+	"camera.h"
+
+1715247648 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\camera.h
+	"physics.h"
+
+1715250063 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\physics.h
+	<math.h>
+	"geometry.h"
+
+1715247649 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\geometry.h
+
+1715247648 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\collision_detection.c
+	"collision_detection.h"
+
+1715247648 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715272406 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\drawing_objects.c
+	"drawing_objects.h"
+
+1715272376 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715247649 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\geometry.c
+	"geometry.h"
+
+1715268558 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715247649 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\poolv2\physics.c
+	"physics.h"
+
+1715249358 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\camera.c
+	"camera.h"
+
+1715247650 d:\ict289\assignment2\pool_ver5_powerbar\pool\camera.h
+	"physics.h"
+
+1715250064 d:\ict289\assignment2\pool_ver5_powerbar\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715247650 d:\ict289\assignment2\pool_ver5_powerbar\pool\geometry.h
+
+1715247650 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\collision_detection.c
+	"collision_detection.h"
+
+1715247650 d:\ict289\assignment2\pool_ver5_powerbar\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715272408 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715272378 d:\ict289\assignment2\pool_ver5_powerbar\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715247650 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\geometry.c
+	"geometry.h"
+
+1715329700 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715247650 source:d:\ict289\assignment2\pool_ver5_powerbar\pool\physics.c
+	"physics.h"
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\camera.c
+	"camera.h"
+
+1715350421 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\camera.h
+	"physics.h"
+
+1715354516 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\geometry.h
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\collision_detection.c
+	"collision_detection.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715420839 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715420413 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715350422 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\geometry.c
+	"geometry.h"
+
+1715420277 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715354517 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver6_ballarray\pool\physics.c
+	"physics.h"
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\camera.c
+	"camera.h"
+
+1715350421 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\camera.h
+	"physics.h"
+
+1715354516 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\geometry.h
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\collision_detection.c
+	"collision_detection.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715350422 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\geometry.c
+	"geometry.h"
+
+1715354517 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\physics.c
+	"physics.h"
+
+1715438094 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715444345 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715440708 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_working\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\camera.c
+	"camera.h"
+
+1715350421 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\camera.h
+	"physics.h"
+
+1715354516 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\geometry.h
+
+1715350421 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\collision_detection.c
+	"collision_detection.h"
+
+1715350422 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715350422 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\geometry.c
+	"geometry.h"
+
+1715354517 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\physics.c
+	"physics.h"
+
+1715523588 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715444345 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715524566 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver9_cameraangles\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715350422 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\camera.c
+	"camera.h"
+
+1715350422 c:\users\user\desktop\pool_ver9_cameraangles\pool\camera.h
+	"physics.h"
+
+1715947792 c:\users\user\desktop\pool_ver9_cameraangles\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715985472 c:\users\user\desktop\pool_ver9_cameraangles\pool\geometry.h
+
+1715946845 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1715946963 c:\users\user\desktop\pool_ver9_cameraangles\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715982700 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715969756 c:\users\user\desktop\pool_ver9_cameraangles\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715350424 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\geometry.c
+	"geometry.h"
+
+1715947758 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\physics.c
+	"physics.h"
+
+1715982286 source:c:\users\user\desktop\pool_ver9_cameraangles\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715350422 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\camera.c
+	"camera.h"
+
+1715350422 c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\camera.h
+	"physics.h"
+
+1715947792 c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715985472 c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\geometry.h
+
+1715946844 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1715946962 c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1715982700 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1715969756 c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715350424 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\geometry.c
+	"geometry.h"
+
+1716015906 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715947758 source:c:\users\liam\downloads\pool_ver11_tablehole\pool_ver9_cameraangles\pool\physics.c
+	"physics.h"
+
+1715350422 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\camera.c
+	"camera.h"
+
+1715350422 d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\camera.h
+	"physics.h"
+
+1715947792 d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1715985472 d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\geometry.h
+
+1715946844 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1715946962 d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1716191754 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716191760 d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1715350424 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\geometry.c
+	"geometry.h"
+
+1716192108 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1715947758 source:d:\ict289\assignment2\pool_ver11_hole\pool_ver9_cameraangles\pool\physics.c
+	"physics.h"
+
+1716443120 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\camera.c
+	"camera.h"
+
+1716443120 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\camera.h
+	"physics.h"
+
+1716448787 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716466565 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\geometry.h
+
+1716644954 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716645114 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+
+1716643600 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716642905 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1716443120 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\geometry.c
+	"geometry.h"
+
+1716645148 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716645148 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\physics.c
+	"physics.h"
+
+1716469928 source:c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\console.c
+	"console.h"
+	<string.h>
+	<stdio.h>
+
+1716469921 c:\users\kin lam\onedrive\桌面\pool_ver11.5_holesandformations\pool_ver9_cameraangles\pool\console.h
+
+1716443122 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\camera.c
+	"camera.h"
+
+1716443122 d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\camera.h
+	"physics.h"
+
+1716448788 d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716466566 d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\geometry.h
+
+1716443122 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\geometry.c
+	"geometry.h"
+
+1716701634 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716703558 d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716702460 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716701752 d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716703676 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716703604 source:d:\ict289\assignment2\pool_ver12.5_ballfallalldraw\pool_ver12.5_ballfall&alldraw\pool_ver12.5\pool\physics.c
+	"physics.h"
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\camera.c
+	"camera.h"
+
+1716712613 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\camera.h
+	"physics.h"
+
+1716712614 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716712613 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\geometry.h
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716712613 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716723821 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716723811 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\geometry.c
+	"geometry.h"
+
+1716723768 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver12.7\pool\physics.c
+	"physics.h"
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\camera.c
+	"camera.h"
+
+1716712613 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\camera.h
+	"physics.h"
+
+1716712614 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716732746 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\geometry.h
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716712613 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716741448 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716740950 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716712613 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\geometry.c
+	"geometry.h"
+
+1716732298 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\physics.c
+	"physics.h"
+
+1716739490 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver14\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716712614 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\camera.c
+	"camera.h"
+
+1716712614 d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\camera.h
+	"physics.h"
+
+1716712616 d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716732748 d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\geometry.h
+
+1716712614 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716712614 d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716791132 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716740952 d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716712614 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\geometry.c
+	"geometry.h"
+
+1716781764 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716732300 source:d:\ict289\assignment2\pool_ver14_mouserotationcontrolandwincondition\pool_ver14_mouserotationcontrolandwincondition\pool\physics.c
+	"physics.h"
+
+1716799405 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\camera.c
+	"camera.h"
+
+1716799405 c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\camera.h
+	"physics.h"
+
+1716800649 c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716799406 c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\geometry.h
+
+1716799406 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716799406 c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716801238 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716799406 c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716799406 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\geometry.c
+	"geometry.h"
+
+1716801097 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716800649 source:c:\users\kin lam\onedrive\桌面\pool_ver14_mouserotationcontrolandwincondition\pool\physics.c
+	"physics.h"
+
+1716824143 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\camera.c
+	"camera.h"
+
+1716824143 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\camera.h
+	"physics.h"
+
+1716824144 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716826755 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\geometry.h
+
+1716824144 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716824144 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716826755 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\geometry.c
+	"geometry.h"
+
+1716827036 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716829254 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716824144 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\physics.c
+	"physics.h"
+
+1716833952 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver16_seperateedgecollide\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716824143 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\camera.c
+	"camera.h"
+
+1716824143 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\camera.h
+	"physics.h"
+
+1716824144 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716826755 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\geometry.h
+
+1716824144 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716824144 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716833952 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716829254 c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716826755 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\geometry.c
+	"geometry.h"
+
+1716824144 source:c:\users\justi\onedrive - murdoch university\ict289\assignment2\pool\pool_ver17_ballcolorandmass\pool\physics.c
+	"physics.h"
+
+1716824144 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\camera.c
+	"camera.h"
+
+1716824144 d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\camera.h
+	"physics.h"
+
+1716824146 d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716826756 d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\geometry.h
+
+1716824146 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716824146 d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716966426 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716964328 d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716826756 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\geometry.c
+	"geometry.h"
+
+1716965232 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716824146 source:d:\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\physics.c
+	"physics.h"
+
+1716824144 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\camera.c
+	"camera.h"
+
+1716824144 c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\camera.h
+	"physics.h"
+
+1716824146 c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716826756 c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\geometry.h
+
+1716824146 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716824146 c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716966746 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716964328 c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716826756 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\geometry.c
+	"geometry.h"
+
+1741670477 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716824146 source:c:\users\liam\onedrive\uni\ict289\assignment2\pool_ver17.1_enterkeyexitsconsole\pool_ver17.1_enterkeyexitsconsole\pool\physics.c
+	"physics.h"
+
+1716824144 source:c:\users\liam\documents\emploid\projects\pool\pool\camera.c
+	"camera.h"
+
+1716824144 c:\users\liam\documents\emploid\projects\pool\pool\camera.h
+	"physics.h"
+
+1716824146 c:\users\liam\documents\emploid\projects\pool\pool\physics.h
+	<math.h>
+	"geometry.h"
+
+1716826756 c:\users\liam\documents\emploid\projects\pool\pool\geometry.h
+
+1716824146 source:c:\users\liam\documents\emploid\projects\pool\pool\collision_detection.c
+	"collision_detection.h"
+	<math.h>
+
+1716824146 c:\users\liam\documents\emploid\projects\pool\pool\collision_detection.h
+	<math.h>
+	"geometry.h"
+	"physics.h"
+
+1716966746 source:c:\users\liam\documents\emploid\projects\pool\pool\drawing_objects.c
+	"drawing_objects.h"
+
+1716964328 c:\users\liam\documents\emploid\projects\pool\pool\drawing_objects.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	<math.h>
+
+1716826756 source:c:\users\liam\documents\emploid\projects\pool\pool\geometry.c
+	"geometry.h"
+
+1741670477 source:c:\users\liam\documents\emploid\projects\pool\pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"physics.h"
+	"drawing_objects.h"
+	"collision_detection.h"
+	"camera.h"
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+
+1716824146 source:c:\users\liam\documents\emploid\projects\pool\pool\physics.c
+	"physics.h"
+
